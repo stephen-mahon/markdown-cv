@@ -5,42 +5,53 @@ title: Stephen Mahon
 # Stephen Mahon
 Steve - he/him
 
+11 E Main Street,<br/>
+St Charles, IL 60174
+
+<a href="stemahon@gmail.com">stemahon@gmail.com</a> --- (630) 677 6694
+
 <div id="webaddress">
-  <a href="mailto:stemahon@gmail.com">stemahon@gmail.com</a>
-| <a href="https://github.com/stephen-mahon" target="_blank">GitHub</a>
-| <a href="https://scholar.google.com/citations?user=OJ2aNK4AAAAJ&hl=en" target="_blank">Scholar</a>
+  <a href="https://stephen-mahon.github.io" target="_blank"><i class="fas fa-home"></i> Website</a>
+| <a href="https://www.linkedin.com/in/stephentmahon/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
+| <a href="https://github.com/stephen-mahon" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+| <a href="https://scholar.google.com/citations?user=OJ2aNK4AAAAJ&hl=en" target="_blank"><i class="fab fa-scholar"></i>Scholar</a>
 </div>
-## Summary
 
-Award-winning researcher, scientist, and engineer.
-Experienced in fluidic and mechanical systems, electronics, prototyping, robotics, spectroscopy, and systems engineering.
-Technical graduate with degrees in Physics and Electronic Engineering.
-British citizen, European citizen, and Green Card holder.
+## Education
+`2023`
+**M.Phil. in Engineering**, *The University of Edinburgh*, Edinburgh, UK
 
-## Professional Experience
-`May 2021 - Sep 2023`
-**Flexible Thinking & DCEK Group, LLC**, Chicago, USA\\
-*President*
-* Self-employed technical consultant in engineering successfully delivered high-quality consulting services to clients across various industries.
-* Deep understanding of engineering principles and extensive knowledge of best practices, industry standards, and emerging technologies to effectively address client needs.
-* Track record of managing complex projects from inception to completion.
-* Strong entrepreneurial spirit and business acumen to navigate the challenges of running a successful consulting practice--identifying new opportunities, building client networks, managing budgets, and delivering projects within agreed-upon timelines.
+`2016`
+**M.Sc. in Physics**, *University College Cork*, Cork, Ireland
 
+`2015`
+**B.Sc. in Chemical Physics**, *University College Cork*, Cork, Ireland
+
+## Experience
+`May 2021 - Present`
+**Flexible Thinking, LLC**, Greater Chicago Area, USA\\
+*Technical Consultant*
+* Successfully delivered high-quality consulting services to clients in various industries.
+* Designed electrical and mechanical systems for manufacturing from requirements to prototypes.
+* Managed complex projects from inception to completion.
+* Demonstrated entrepreneurial spirit in identifying new opportunities and building client networks.
+  
 `Oct 2020 – Mar 2021`
 **Stealth Mode Startup Company**, Edinburgh, UK\\
 *Early-Stage Researcher*
-* Early-Stage Researcher for a University startup that focused on the design and control of complex fluidic systems without the use of onboard electronics.
+* Contributed as a researcher for a University startup focusing on designing complex fluidic systems.
 * Developed patented technology with applications in microfluidics (biotech) and industrial hydraulics (robotics).
-* Refined prototype systems in CAD/CAM and iterated designs using rapid manufacture methods (3D printing, CNC machining)
+* Utilized CAD/CAM for refining prototype systems and iterated designs through rapid manufacturing methods.
 
 `Jun 2019 – Oct 2020`
 **School of Engineering**, The University of Edinburgh, UK\\
 *Research Associate*
 * Developed a fluidic-controlled system for soft robotics and hydraulic robotic systems.
-* Provided systems engineering principles for the development of a systems interface based on the Robotic Operating System.
-* Mechanical engineering design and fabrication, including structural analysis and CAD design/FEM.
-* Prototyped proof-of-concept and ideation using rapid prototyping tools (laser cutting, 3D printing, CNC machining, circuit board design, molding).
-* Disseminating research through internal reports, conference proceedings, and journal publications. 
+* Provided systems engineering principles for developing a systems interface based on the Robotic Operating System.
+* Led mechanical engineering design and fabrication, including structural analysis and CAD design/FEM.
+* Prototyped proof-of-concept and ideation using rapid prototyping tools.
+* Disseminated research through internal reports, conference proceedings, and journal publications.
+
 
 `Jan 2017 – May 2019`
 **School of Engineering**, The University of Edinburgh, UK\\
@@ -51,7 +62,7 @@ British citizen, European citizen, and Green Card holder.
 * Topics covered: units & components, mass balances, vapor liquid equilibria, reactions & recycle, energy balances with reactions & recycle loops.
 
 `Sep 2014 – Apr 2016`
-**Deptartment of Physics**, University College Cork, Ireland\\
+**Department of Physics**, University College Cork, Ireland\\
 *Teaching and Lab Assistant*
 * Lab demonstrator in the Physics Department for practical sessions for first-year undergraduate physics students (3 hours/week).
 * Teaching Assistant for tutorial sessions for first-year biological science students (3 hours/week).
@@ -59,30 +70,20 @@ British citizen, European citizen, and Green Card holder.
 * Demonstrated experiments for measuring mechanical and electrical properties, prepared weekly tutorials, solved assigned problems, explained theory and concepts, graded exams and reports.
 * Topics covered included classical mechanics, thermodynamics, electricity and electrical circuits, electro-and-magnetostatics, geometrical optics, quantum mechanics, and nuclear physics.
 
+
 `Jun 2014 – Aug 2014`
-**The Tyndall National Institute**, Cork, Ireland\\
-*Undergraduate Research Associate* (Intern)
+**Tyndall National Institute**, Cork, Ireland\\
+*Undergraduate Research Associate (Intern)*
 * Designed data acquisition LabVIEW scripts for power-voltage-current analysis.
 * Used pulsed and continuous-wave lasers to determine gain profiles and cavity modes of photonic devices.
 * Developed an experimental setup for the measurement of thermal resistance controlled by LabVIEW with automated scripting graphs to MATLAB.
 * Performed spectral measurements of semiconductor devices in the near-infrared.
-
-
-## Education
-`2023`
-**The University of Edinburgh**, Edinburgh, UK
-* *Master of Philosophy* (MPhil) in Engineering. Thesis submitted in May 2023. Expected graduation Winter 2023.
-
-`2015`
-**University College Cork**, Cork, Ireland
-* *Bachelor of Science* (BSc) in Chemical Physics.
 
 ## Awards
 `2019`
 Winner of Most Outstanding Student Paper, *2019 IEEE International Conference on Soft Robotics*, Seoul, South Korea
 
 ## Publications
-
 ### Papers
 *For the most up-to-date list of publications see [Google Scholar](https://scholar.google.com/citations?user=OJ2aNK4AAAAJ&hl=en).*
 
